@@ -1,10 +1,5 @@
 # jpa02-mic-wu
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s25/jpa02-cgaucho
-
 Repo: https://github.com/ucsb-cs156-s25/jpa02-mic-wu
 
 Deployed at: https://jpa02-mic-wu.dokku-12.cs.ucsb.edu
